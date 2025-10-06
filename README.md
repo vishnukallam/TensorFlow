@@ -16,6 +16,12 @@
 ## Step -5: 
 ### Activate the environment. To activate the environment by applying the command in PowerShell:
 # _./<your_env_name>/Scripts/activate_.
-## Step- 5:
+## Step- 6:
 ### Create a Jupyter kernel for identifying TensorFlow. Install the Jupyter Kernel by using the command:
 # _pip install ipykernel_.
+### Install the required dependencies using the PIP command for TensorFlow.
+#_pip install tensorflow_.
+## step- 7:
+### Create a name for the kernel that you have created by using this command:
+# _python -m ipykernel install --user --name=<kernel_name>_ or _py -m ipykernel install --user --name=<kernel_name>_.
+
