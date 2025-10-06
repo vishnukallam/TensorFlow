@@ -1,8 +1,21 @@
 # TensorFlow Environment
 ## I am going to share the step-by-step process of installing TensorFlow on your laptop.
 # Installation of TensorFlow Environment
-## Step-1:
+## Step- 1:
 ### Create a folder that used to contain the projects or code of your application or project. It's better to create this folder on the _C drive_.
 ### Open the Windows File Explorer. Navigate to C drive-> Users-> Your_users (C:/Users/Your_users).
-## Step-2: 
-### Open the folder that you created in the C drive users and then navigate to the "TensorFlow" folder. Open the TensorFlow folder and apply _Shift + RightClick_. Select the option 
+## Step- 2: 
+### Open the folder that you created in the C drive users and then navigate to the "TensorFlow" folder. Open the TensorFlow folder and apply _Shift + RightClick_. Select the option _Power-Shell_.
+## Step- 3:
+### Before creating a TensorFlow environment, check whether Python is installed on your desktop. If it is installed, then check for Python on your desktop through the Command Line.
+### Open the Command Line and type _py_ or _python_. These commands were used to execute Python in the Command Line.
+## Step- 4: 
+### Create the TensorFlow environment by using the command:
+# _python -m venv <your_env_name>_ or py -m venv <your_env_name> (This command will create a structure or skeleton of the environment)
+### Apply this command in PowerShell; the path must be in _C:/users/your_users/TensorFlow_Folder_.
+## Step -5: 
+### Activate the environment. To activate the environment by applying the command in PowerShell:
+# _./<your_env_name>/Scripts/activate_.
+## Step- 5:
+### Create a Jupyter kernel for identifying TensorFlow. Install the Jupyter Kernel by using the command:
+# _pip install ipykernel_.
