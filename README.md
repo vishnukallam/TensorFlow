@@ -1,4 +1,4 @@
-<img width="1344" height="715" alt="image" src="https://github.com/user-attachments/assets/da6c9ca9-48b7-4411-bf86-38e49a32ee49" /># TensorFlow Environment
+<img width="1366" height="295" alt="image" src="https://github.com/user-attachments/assets/946ae2fa-3651-4a4c-a48c-29de65f39b94" /><img width="1344" height="715" alt="image" src="https://github.com/user-attachments/assets/da6c9ca9-48b7-4411-bf86-38e49a32ee49" /># TensorFlow Environment
 ## I am going to share the step-by-step process of installing TensorFlow on your laptop.
 # Installation of TensorFlow Environment
 ## Step- 1:
@@ -29,4 +29,4 @@
 ## step- 7:
 ### Create a name for the kernel that you have created by using this command:
 # _python -m ipykernel install --user --name=<kernel_name>_ or _py -m ipykernel install --user --name=<kernel_name>_.
-
+![Image](https://github.com/user-attachments/assets/b9ca9fc6-70ca-4bbf-bf84-310dfbd56f57)
