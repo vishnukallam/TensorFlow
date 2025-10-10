@@ -13,6 +13,7 @@
 ## Step- 4: 
 ### Create the TensorFlow environment by using the command:
 # _python -m venv <your_env_name>_ or py -m venv <your_env_name> (This command will create a structure or skeleton of the environment)
+![Image](https://github.com/user-attachments/assets/156d888c-ba38-49b6-81fc-428504779e97)
 ### Apply this command in PowerShell; the path must be in _C:/users/your_users/TensorFlow_Folder_.
 ## Step -5: 
 ### Activate the environment. To activate the environment by applying the command in PowerShell:
