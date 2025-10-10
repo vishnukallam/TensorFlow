@@ -1,4 +1,4 @@
-# TensorFlow Environment
+<img width="1344" height="715" alt="image" src="https://github.com/user-attachments/assets/da6c9ca9-48b7-4411-bf86-38e49a32ee49" /># TensorFlow Environment
 ## I am going to share the step-by-step process of installing TensorFlow on your laptop.
 # Installation of TensorFlow Environment
 ## Step- 1:
@@ -17,14 +17,15 @@
 ### Apply this command in PowerShell; the path must be in _C:/users/your_users/TensorFlow_Folder_.
 ## Step -5: 
 ### Activate the environment. To activate the environment by applying the command in PowerShell:
-# _./<your_env_name>/Scripts/activate_.
+#  _./<your_env_name>/Scripts/activate_.
 ![Image](https://github.com/user-attachments/assets/be93c9ca-57fd-467a-a295-b17a1e2c6aba)
 ## Step- 6:
 ### Create a Jupyter kernel for identifying TensorFlow. Install the Jupyter Kernel by using the command:
 # _pip install ipykernel_.
+![Image](https://github.com/user-attachments/assets/55df8135-3a85-4d23-90d6-d25aa0406ad7) 
 ### Install the required dependencies using the PIP command for TensorFlow.
-#_pip install tensorflow_.
-![Image](https://github.com/user-attachments/assets/55df8135-3a85-4d23-90d6-d25aa0406ad7)
+# _pip install tensorflow_.
+![Image](https://github.com/user-attachments/assets/3b8d9b62-d1ec-4f95-a379-a9532871c62a)
 ## step- 7:
 ### Create a name for the kernel that you have created by using this command:
 # _python -m ipykernel install --user --name=<kernel_name>_ or _py -m ipykernel install --user --name=<kernel_name>_.
