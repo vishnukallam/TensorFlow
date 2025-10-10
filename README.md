@@ -8,7 +8,7 @@
 ### Open the folder that you created in the C drive users and then navigate to the "TensorFlow" folder. Open the TensorFlow folder and apply _Shift + RightClick_. Select the option _Power-Shell_.
 ![Image](https://github.com/user-attachments/assets/f446e216-66fb-4db2-8fa4-ef3d315ba0be)
 ## Step- 3:
-### Before creating a TensorFlow environment, check whether Python is installed on your desktop. If it is installed, then check for Python on your desktop through the Command Line.
+### Before you create a TensorFlow environment, please check whether Python is installed on your desktop. If it is installed, then check for Python on your desktop through the Command Line.
 ### Open the Command Line and type _py_ or _python_. These commands were used to execute Python in the Command Line.
 ## Step- 4: 
 ### Create the TensorFlow environment by using the command:
@@ -24,6 +24,7 @@
 # _pip install ipykernel_.
 ### Install the required dependencies using the PIP command for TensorFlow.
 #_pip install tensorflow_.
+![Image](https://github.com/user-attachments/assets/55df8135-3a85-4d23-90d6-d25aa0406ad7)
 ## step- 7:
 ### Create a name for the kernel that you have created by using this command:
 # _python -m ipykernel install --user --name=<kernel_name>_ or _py -m ipykernel install --user --name=<kernel_name>_.
