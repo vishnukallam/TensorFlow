@@ -6,6 +6,7 @@
 ### Open the Windows File Explorer. Navigate to C drive-> Users-> Your_users (C:/Users/Your_users).
 ## Step- 2: 
 ### Open the folder that you created in the C drive users and then navigate to the "TensorFlow" folder. Open the TensorFlow folder and apply _Shift + RightClick_. Select the option _Power-Shell_.
+![Image](https://github.com/user-attachments/assets/f446e216-66fb-4db2-8fa4-ef3d315ba0be)
 ## Step- 3:
 ### Before creating a TensorFlow environment, check whether Python is installed on your desktop. If it is installed, then check for Python on your desktop through the Command Line.
 ### Open the Command Line and type _py_ or _python_. These commands were used to execute Python in the Command Line.
