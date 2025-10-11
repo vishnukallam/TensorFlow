@@ -1,4 +1,4 @@
-<img width="1366" height="295" alt="image" src="https://github.com/user-attachments/assets/946ae2fa-3651-4a4c-a48c-29de65f39b94" /><img width="1344" height="715" alt="image" src="https://github.com/user-attachments/assets/da6c9ca9-48b7-4411-bf86-38e49a32ee49" /># TensorFlow Environment
+# TensorFlow Environment
 ## I am going to share the step-by-step process of installing TensorFlow on your laptop.
 # Installation of TensorFlow Environment
 ## Step- 1:
