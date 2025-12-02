@@ -13,6 +13,8 @@
 ![Image](https://github.com/user-attachments/assets/f446e216-66fb-4db2-8fa4-ef3d315ba0be)
 ## Step- 3:
 ### Before you create a TensorFlow environment, please check whether Python is installed on your desktop. If it is installed, then check for Python on your desktop through the Command Line.
+![Image](https://github.com/user-attachments/assets/0316ad41-48d5-4906-b8d1-a64cc9b9531d)
+
 ### Open the Command Line and type _py_ or _python_. These commands were used to execute Python in the Command Line.
 ## Step- 4: 
 ### Create the TensorFlow environment by using the command:
