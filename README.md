@@ -1,6 +1,10 @@
 # TensorFlow Environment
 ## I am going to share the step-by-step process of installing TensorFlow on your laptop.
 # Installation of TensorFlow Environment
+
+## Before you can get started developing deep-learning applications, you need to set up your workstation. It’s highly recommended, although not strictly necessary, that you run deep- learning code on a modern NVIDIA GPU
+## If you don’t want to install a GPU on your machine, you can alternatively consider running your experiments on an AWS EC2 GPU instance or on Google Cloud Platform. But note that cloud GPU instances can become expensive over time.
+
 ## Step- 1:
 ### Create a folder that used to contain the projects or code of your application or project. It's better to create this folder on the _C drive_.
 ### Open the Windows File Explorer. Navigate to C drive-> Users-> Your_users (C:/Users/Your_users).
